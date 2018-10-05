@@ -12,8 +12,4 @@
 
 # Adding lines
 
-<<<<<<< HEAD
-#Adding line in demo2134
-=======
-#Adding line in demo2135
->>>>>>> e518790da3dd05275c227034ce8e651c710ef650
+#78910
